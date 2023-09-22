@@ -1,6 +1,6 @@
 # About: This project contains functionality to switch between different email providers on single button click.
 
-# Notes: This project will running on client side so till today "22/09/2023" Postmask does not allow client side authentication.
+# Notes: This project will run on client side so till today "22/09/2023" Postmask does not allow client side authentication.
 
 References URL: (https://postmarkapp.com/support/article/1179-what-does-a-cors-error-mean#:~:text=A%20CORS%20error%20suggests%20that,sends%20the%20message%20through%20Postmark.)
 
